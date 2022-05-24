@@ -1,4 +1,4 @@
-package com.company.class03;
+package top.skyzc.class03;
 
 /**
  * @Title Code04_BSAwesome

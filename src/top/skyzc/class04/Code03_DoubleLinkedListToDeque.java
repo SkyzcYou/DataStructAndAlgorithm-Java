@@ -1,4 +1,4 @@
-package com.company.class04;
+package top.skyzc.class04;
 
 /**
  * @Title Code03_DoubleLinkedListToDeque

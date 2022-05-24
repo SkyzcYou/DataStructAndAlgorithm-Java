@@ -1,4 +1,4 @@
-package com.company;
+package top.skyzc;
 
 public class Main {
 

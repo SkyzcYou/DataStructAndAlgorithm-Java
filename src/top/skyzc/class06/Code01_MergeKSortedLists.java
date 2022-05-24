@@ -1,4 +1,4 @@
-package com.company.class06;
+package top.skyzc.class06;
 
 import java.util.Comparator;
 import java.util.List;

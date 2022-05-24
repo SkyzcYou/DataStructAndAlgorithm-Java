@@ -1,4 +1,4 @@
-package com.company.class06;
+package top.skyzc.class06;
 
 import java.lang.reflect.Array;
 import java.sql.SQLOutput;
